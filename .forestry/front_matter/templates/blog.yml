@@ -9,4 +9,4 @@ fields:
   label: test
   description: This is for testing
 pages:
-- content/home.md.md
+- content/home.md
