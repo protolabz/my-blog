@@ -8,5 +8,3 @@ fields:
     required: false
   label: test
   description: This is for testing
-pages:
-- content/home.md
