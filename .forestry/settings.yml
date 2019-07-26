@@ -6,7 +6,7 @@ webhook_url: https://app.forestry.io/git/github/hook
 sections:
 - type: directory
   path: ''
-  label: Posts
+  label: post
   create: all
   match: "**/*"
 - type: directory
