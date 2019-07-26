@@ -5,6 +5,11 @@ admin_path: ''
 webhook_url: https://app.forestry.io/git/github/hook
 sections:
 - type: directory
+  path: ''
+  label: Posts
+  create: all
+  match: "**/*"
+- type: directory
   path: content
   label: Pages
   create: all
