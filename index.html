@@ -238,6 +238,13 @@ nav ul{
           </div>
 	    
     </section>
+	  
+	  <main class="products">
+  {{ range .Site.Data.products }}
+    {{ partial "product.html" . }}
+  {{ end }}
+</main>
+	  
   </body>
 </html>
 
