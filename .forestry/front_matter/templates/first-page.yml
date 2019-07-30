@@ -1,4 +1,10 @@
 ---
 label: First Page
 hide_body: false
-fields: []
+fields:
+- name: humen_friendly
+  type: text
+  config:
+    required: true
+  label: Humen Friendly
+  description: this is description
