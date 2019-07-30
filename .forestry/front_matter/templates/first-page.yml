@@ -8,3 +8,5 @@ fields:
     required: true
   label: Humen Friendly
   description: this is description
+pages:
+- content/firstfile.md
